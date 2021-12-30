@@ -1,0 +1,26 @@
+#contact-section{
+    background-color: #C9D702;
+    height: 450px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+#formSection{
+    background-color:rgb(247, 243, 243);
+    height: 350px;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+}
+.contenedor-input{
+    margin-left: 30px;
+}
+.form-control{
+    margin-bottom: 20px;
+}
+#boton{
+    margin-left: 45px;
+}
+.form-label{
+    margin-top: 20px;
+}

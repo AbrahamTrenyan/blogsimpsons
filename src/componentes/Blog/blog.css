@@ -1,0 +1,22 @@
+.fondoVerde{
+    background-color: #C9D702;
+    justify-content: center;
+    align-items: center;
+    height: 1800px;
+}
+#capitulos{
+    background-color: white;
+    height: 1500px;
+    width: 1300px;
+}
+#capituloLucha{
+    border-top: 1px solid black;
+    margin-top: 100px;
+}
+.texto{
+    margin-top: 50px;
+}
+.img{
+    width: 40%;
+    height: 40%;
+}

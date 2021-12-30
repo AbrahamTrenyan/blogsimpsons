@@ -1,6 +1,6 @@
 import React from 'react';
 import homersapien from "../../img/carrousel-3.jpg" 
-class EvolucionHomero extends React.Component {
+class HomerSapien extends React.Component {
     constructor(props) {
         super(props);
         this.state = {  }
@@ -13,4 +13,4 @@ class EvolucionHomero extends React.Component {
         );
     }
 }
-export default EvolucionHomero
+export default HomerSapien
